@@ -36,6 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+[EXP 5.1 EDM - Akash Drawing.pdf](https://github.com/user-attachments/files/18023174/EXP.5.1.EDM.-.Akash.Drawing.pdf)
+![WhatsApp Image 2024-12-05 at 17 56 44_1e153004](https://github.com/user-attachments/assets/bba1b967-4a64-4114-94aa-652078657842)
 
 
 ## RESULT:
